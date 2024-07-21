@@ -1,0 +1,16 @@
+.turned {
+  transform: rotate(180deg);
+}
+.image {
+  transform: rotate(0deg);
+}
+
+.Alive {
+  color: green;
+}
+.Dead {
+  color: red;
+}
+.unknown {
+  color: grey;
+}
